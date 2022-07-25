@@ -114,29 +114,6 @@ class _HomePageState extends State<HomePage> {
                       ],
                     ),
                   ),
-
-                  // const SizedBox(height: 20,),
-                  //
-                  // Text("Business Hotels",
-                  //   style: TextStyle(
-                  //       fontWeight: FontWeight.bold,
-                  //       color: Colors.grey[800], fontSize: 20),),
-                  // const SizedBox(height: 20,),
-                  // Container(
-                  //   height: 200,
-                  //   child: ListView(
-                  //     scrollDirection: Axis.horizontal,
-                  //     children: [
-                  //       makeItem(image: "assets/images/ic_hotel1.jpg", title: "Hotel 1"),
-                  //       makeItem(image: "assets/images/ic_hotel2.jpg", title: "Hotel 2"),
-                  //       makeItem(image: "assets/images/ic_hotel3.jpg", title: "Hotel 3"),
-                  //       makeItem(image: "assets/images/ic_hotel4.jpg", title: "Hotel 4"),
-                  //       makeItem(image: "assets/images/ic_hotel5.jpg", title: "Hotel 5"),
-                  //     ],
-                  //   ),
-                  // ),
-                  //
-
                 ],
               ),
             ),
@@ -194,5 +171,4 @@ class _HomePageState extends State<HomePage> {
         ),
     );
   }
-
 }
